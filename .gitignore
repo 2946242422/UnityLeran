@@ -61,3 +61,35 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+TeachTcpServer/TeachNetDemo/Library/
+
+TeachTcpServer/TeachNetDemo/Logs/
+
+TeachTcpServer/TeachNetDemo/obj/
+
+TeachTcpServer/TeachNetDemo/.vsconfig
+
+TeachTcpServer/TeachNetDemo/UserSettings/
+
+TeachTcpServer/TeachNet/Library/
+
+TeachTcpServer/TeachNet/Logs/
+
+TeachTcpServer/TeachNet/obj/
+
+TeachTcpServer/TeachNet/UserSettings/
+
+TeachTcpServer/TeachNet/.vsconfig
+
+TeachShader/TeachShader/Library/
+
+TeachShader/TeachShader/Logs/
+
+TeachShader/TeachShader/obj/
+
+TeachShader/TeachShader/UserSettings/
+
+TeachShader/TeachShader/.vsconfig
+
+TeachShader/TeachShader/.vscode/

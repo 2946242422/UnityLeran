@@ -1,0 +1,14 @@
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\bin\Debug\netcoreapp3.1\TeachTcpServerExercises.exe
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\bin\Debug\netcoreapp3.1\TeachTcpServerExercises.deps.json
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\bin\Debug\netcoreapp3.1\TeachTcpServerExercises.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\bin\Debug\netcoreapp3.1\TeachTcpServerExercises.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\bin\Debug\netcoreapp3.1\TeachTcpServerExercises.dll
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\bin\Debug\netcoreapp3.1\TeachTcpServerExercises.pdb
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\obj\Debug\netcoreapp3.1\TeachTcpServerExercises.csproj.AssemblyReference.cache
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\obj\Debug\netcoreapp3.1\TeachTcpServerExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\obj\Debug\netcoreapp3.1\TeachTcpServerExercises.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\obj\Debug\netcoreapp3.1\TeachTcpServerExercises.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\obj\Debug\netcoreapp3.1\TeachTcpServerExercises.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\obj\Debug\netcoreapp3.1\TeachTcpServerExercises.dll
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\obj\Debug\netcoreapp3.1\TeachTcpServerExercises.pdb
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerExercises\obj\Debug\netcoreapp3.1\TeachTcpServerExercises.genruntimeconfig.cache

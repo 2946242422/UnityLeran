@@ -1,0 +1,14 @@
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\bin\Debug\netcoreapp3.1\TeachTcpServerAsync.exe
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\bin\Debug\netcoreapp3.1\TeachTcpServerAsync.deps.json
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\bin\Debug\netcoreapp3.1\TeachTcpServerAsync.runtimeconfig.json
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\bin\Debug\netcoreapp3.1\TeachTcpServerAsync.runtimeconfig.dev.json
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\bin\Debug\netcoreapp3.1\TeachTcpServerAsync.dll
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\bin\Debug\netcoreapp3.1\TeachTcpServerAsync.pdb
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\obj\Debug\netcoreapp3.1\TeachTcpServerAsync.csproj.AssemblyReference.cache
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\obj\Debug\netcoreapp3.1\TeachTcpServerAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\obj\Debug\netcoreapp3.1\TeachTcpServerAsync.AssemblyInfoInputs.cache
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\obj\Debug\netcoreapp3.1\TeachTcpServerAsync.AssemblyInfo.cs
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\obj\Debug\netcoreapp3.1\TeachTcpServerAsync.csproj.CoreCompileInputs.cache
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\obj\Debug\netcoreapp3.1\TeachTcpServerAsync.dll
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\obj\Debug\netcoreapp3.1\TeachTcpServerAsync.pdb
+C:\Users\MECHREVO\Desktop\TeachTcpServer\TeachTcpServerAsync\obj\Debug\netcoreapp3.1\TeachTcpServerAsync.genruntimeconfig.cache
