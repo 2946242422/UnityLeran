@@ -93,3 +93,13 @@ TeachShader/TeachShader/UserSettings/
 TeachShader/TeachShader/.vsconfig
 
 TeachShader/TeachShader/.vscode/
+
+TeachTcpServer/MyNetDemo/Client/ClientDemo/Library/
+
+TeachTcpServer/MyNetDemo/Client/ClientDemo/Logs/
+
+TeachTcpServer/MyNetDemo/Client/ClientDemo/obj/
+
+TeachTcpServer/MyNetDemo/Client/ClientDemo/Temp/
+
+TeachTcpServer/MyNetDemo/Client/ClientDemo/UserSettings/
