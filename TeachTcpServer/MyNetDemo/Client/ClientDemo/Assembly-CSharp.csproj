@@ -50,6 +50,7 @@
     <Compile Include="Assets\Scripts\ConnectToServer.cs" />
     <Compile Include="Assets\Scripts\PlayerMsg.cs" />
     <Compile Include="Assets\Scripts\BaseMsg.cs" />
+    <Compile Include="Assets\Scripts\HTTP\HttpTest.cs" />
     <Compile Include="Assets\Scripts\BaseData.cs" />
     <Compile Include="Assets\Scripts\QuitMsg.cs" />
     <Compile Include="Assets\Scripts\Main\Main.cs" />
