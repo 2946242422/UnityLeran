@@ -46,7 +46,11 @@
     <Analyzer Include="F:\A-Software\Unity\UnityEngine\6000.0.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\PlayerData.cs" />
     <Compile Include="Assets\Scripts\ConnectToServer.cs" />
+    <Compile Include="Assets\Scripts\PlayerMsg.cs" />
+    <Compile Include="Assets\Scripts\BaseMsg.cs" />
+    <Compile Include="Assets\Scripts\BaseData.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="UnityEngine">
       <HintPath>F:\A-Software\Unity\UnityEngine\6000.0.23f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>

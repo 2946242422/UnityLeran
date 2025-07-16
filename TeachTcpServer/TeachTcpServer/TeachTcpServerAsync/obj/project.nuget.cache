@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PX5QZ0HOS5ta8L74h/jnC5MW4TXMwcysN8Fy5aDRzpDHbdYeVAoyY+DAmMfxnBAcb7UaIFNBleNcIl8rnZYysA==",
+  "dgSpecHash": "mADCqhv1w1Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MECHREVO\\Desktop\\TeachTcpServer\\TeachTcpServerAsync\\TeachTcpServerAsync.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\GitHub\\AAA-MyGitHub\\UnityLeran\\TeachTcpServer\\TeachTcpServer\\TeachTcpServerAsync\\TeachTcpServerAsync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\29462\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\29462\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\29462\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\29462\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

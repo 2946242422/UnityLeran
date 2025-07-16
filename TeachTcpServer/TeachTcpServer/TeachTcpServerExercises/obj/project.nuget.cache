@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sSquWwIoKmSKoGA+Y2fTwDttn4SLfxWAc4tS8Yr2SGy9f16Fj7dAo0KzLnUuD9ffB7OLhQrdyEm78Xj//s8KnA==",
+  "dgSpecHash": "Ilq1kKXvnyA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MECHREVO\\Desktop\\TeachTcpServer\\TeachTcpServerExercises\\TeachTcpServerExercises.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\GitHub\\AAA-MyGitHub\\UnityLeran\\TeachTcpServer\\TeachTcpServer\\TeachTcpServerExercises\\TeachTcpServerExercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\29462\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\29462\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\29462\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\29462\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
