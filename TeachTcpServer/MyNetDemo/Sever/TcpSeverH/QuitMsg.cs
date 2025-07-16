@@ -1,7 +1,5 @@
-﻿/// <summary>
-/// 心跳消息
-/// </summary>
-public class HeartMsg : BaseMsg
+
+public class QuitMsg : BaseMsg
 {
     public override int GetBytesNum()
     {
@@ -24,6 +22,6 @@ public class HeartMsg : BaseMsg
 
     public override int GetID()
     {
-        return 999;
+        return 1003;
     }
 }

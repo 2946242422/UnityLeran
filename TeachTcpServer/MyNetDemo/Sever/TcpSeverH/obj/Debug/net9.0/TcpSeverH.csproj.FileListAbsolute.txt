@@ -1,0 +1,15 @@
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\bin\Debug\net9.0\TcpSeverH.exe
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\bin\Debug\net9.0\TcpSeverH.deps.json
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\bin\Debug\net9.0\TcpSeverH.runtimeconfig.json
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\bin\Debug\net9.0\TcpSeverH.dll
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\bin\Debug\net9.0\TcpSeverH.pdb
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\obj\Debug\net9.0\TcpSeverH.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\obj\Debug\net9.0\TcpSeverH.AssemblyInfoInputs.cache
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\obj\Debug\net9.0\TcpSeverH.AssemblyInfo.cs
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\obj\Debug\net9.0\TcpSeverH.csproj.CoreCompileInputs.cache
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\obj\Debug\net9.0\TcpSeverH.sourcelink.json
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\obj\Debug\net9.0\TcpSeverH.dll
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\obj\Debug\net9.0\refint\TcpSeverH.dll
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\obj\Debug\net9.0\TcpSeverH.pdb
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\obj\Debug\net9.0\TcpSeverH.genruntimeconfig.cache
+E:\Unity\UnityLeran\TeachTcpServer\MyNetDemo\Sever\TcpSeverH\obj\Debug\net9.0\ref\TcpSeverH.dll
