@@ -13,7 +13,7 @@ public class PlayerMsg : BaseMsg
         WriteInt(bytes, GetID(), ref index);
         //写这个消息的成员变量
         WriteInt(bytes, playerID, ref index);
-        WriteData(bytes, playerData, ref index);
+        
         return bytes;
     }
 

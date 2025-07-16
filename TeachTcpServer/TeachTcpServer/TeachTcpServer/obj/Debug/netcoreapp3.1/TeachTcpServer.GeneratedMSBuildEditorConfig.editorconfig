@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = TeachTcpServer
-build_property.ProjectDir = F:\GitHub\AAA-MyGitHub\UnityLeran\TeachTcpServer\TeachTcpServer\TeachTcpServer\
+build_property.ProjectDir = E:\Unity\UnityLeran\TeachTcpServer\TeachTcpServer\TeachTcpServer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
